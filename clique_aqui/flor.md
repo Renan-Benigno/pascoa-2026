@@ -4,5 +4,6 @@ ja deixe anotado a resposta
 
 aqui está sua próxima pista:
 
-*tem muitos dentes, mas não consegue morder*
-*acho que deixei em algum arquivo no galho principal*
+_**tem muitos dentes, mas não consegue morder**_
+
+_**acho que deixei em algum arquivo no galho principal**_
